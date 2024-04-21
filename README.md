@@ -11,7 +11,7 @@ This repository contains Arduino C++ code for controlling a motor using an H-bri
 ## Setup
 1. **Clone or download** this repository to your local machine.
 2. **Open the Arduino IDE**.
-3. **Copy the code** from `Maincode.ino` and paste it into a new sketch in the Arduino IDE.
+3. **Copy the code** from `motor_control_code.cpp` and paste it into a new sketch in the Arduino IDE.
 4. **Connect your Arduino Nano** to your computer using a Mini-B USB cable.
 5. **Select the appropriate board and port** in the Arduino IDE settings.
 6. **Upload the sketch** to your Arduino Nano.

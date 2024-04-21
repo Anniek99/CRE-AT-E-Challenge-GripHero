@@ -33,3 +33,6 @@ This repository contains Arduino C++ code for controlling a motor using an H-bri
 - `open()` and `close()` functions control the motor to open and close based on the change in voltage.
 - `off()` function turns off all motor outputs.
 - `loop()` continuously reads the analog input, calculates the voltage change, and adjusts the motor direction accordingly.
+
+## Visualization
+![Block Diagram](blockcode.png)
